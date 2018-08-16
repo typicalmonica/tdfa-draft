@@ -19,7 +19,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #FF69AC;
+  color: #FF9999;
 }
 h1,
 h2,
@@ -46,7 +46,7 @@ a.email.inverse  {
 	text-decoration: underline;
 }
 a.email.inverse:hover, a.email.inverse:active  {
-	color: #FF69AC;
+	color: #FF9999;
 	text-decoration: underline;
 }
 hr.star-light,
@@ -72,7 +72,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #FF69AC;
+  background-color: #FF9999;
   color: white;
 }
 hr.star-primary {
@@ -91,7 +91,7 @@ hr {
 }
 header {
   text-align: center;
-  background: #FF69AC;
+  background: #FF9999;
   color: white;
 }
 header .container {
@@ -149,7 +149,7 @@ margin-right: 20px;
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #FF69AC;
+  color: #FF9999;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
@@ -157,13 +157,13 @@ margin-right: 20px;
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #FF69AC;
+  background: #FF9999;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #FF69AC;
+  background: #FF9999;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -173,9 +173,9 @@ margin-right: 20px;
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #FF69AC;
+  background-color: #FF9999;
   color: white;
-  border-color: #FF69AC;
+  border-color: #FF9999;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -358,7 +358,7 @@ footer .footer-below {
 .btn-outline:focus,
 .btn-outline:active,
 .btn-outline.active {
-  color: #FF69AC;
+  color: #FF9999;
   background: white;
   border: solid 2px white;
 }
@@ -407,8 +407,8 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: white;
-  background-color: #FF69AC;
-  border-color: #FF69AC;
+  background-color: #FF9999;
+  border-color: #FF9999;
   font-weight: 700;
 }
 .btn-success:hover,
