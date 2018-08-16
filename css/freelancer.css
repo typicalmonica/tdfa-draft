@@ -19,7 +19,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #f5bcbc;
+  color: #ffb3b3;
 }
 h1,
 h2,
@@ -46,7 +46,7 @@ a.email.inverse  {
 	text-decoration: underline;
 }
 a.email.inverse:hover, a.email.inverse:active  {
-	color: #f5bcbc;
+	color: #ffb3b3;
 	text-decoration: underline;
 }
 hr.star-light,
@@ -72,7 +72,7 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #f5bcbc;
+  background-color: #ffb3b3;
   color: white;
 }
 hr.star-primary {
@@ -149,7 +149,7 @@ margin-right: 20px;
   color: white;
 }
 .navbar-custom .navbar-nav li a:hover {
-  color: #f5bcbc;
+  color: #ffb3b3;
 }
 .navbar-custom .navbar-nav li a:focus,
 .navbar-custom .navbar-nav li a:active {
@@ -157,13 +157,13 @@ margin-right: 20px;
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #f5bcbc;
+  background: #ffb3b3;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
 .navbar-custom .navbar-nav li.active a:active {
   color: white;
-  background: #f5bcbc;
+  background: #ffb3b3;
 }
 .navbar-custom .navbar-toggle {
   color: white;
@@ -173,9 +173,9 @@ margin-right: 20px;
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: #f5bcbc;
+  background-color: #ffb3b3;
   color: white;
-  border-color: #f5bcbc;
+  border-color: #ffb3b3;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -324,7 +324,7 @@ section.success {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #f5bcbc;
+  color: #ffb3b3;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -407,7 +407,7 @@ fieldset[disabled] .btn-primary.active {
 }
 .btn-success {
   color: white;
-  background-color: #f5bcbc;
+  background-color: #ffb3b3;
   border-color: #f5bcbc;
   font-weight: 700;
 }
@@ -440,11 +440,11 @@ fieldset[disabled] .btn-success:active,
 .btn-success.disabled.active,
 .btn-success[disabled].active,
 fieldset[disabled] .btn-success.active {
-  background-color: #f5bcbc;
-  border-color: #f5bcbc;
+  background-color: #ffb3b3;
+  border-color: #ffb3b3;
 }
 .btn-success .badge {
-  color: #f5bcbc;
+  color: #ffb3b3;
   background-color: white;
 }
 .btn-social {
@@ -548,7 +548,7 @@ fieldset[disabled] .btn-success.active {
   position: absolute;
   left: 0px;
   top: 0px;
-  background: #f5bcbc;
+  background: #ffb3b3;
   outline: 0;
   transition: top 0.1s ease-in, background 0.5s linear;
 }
