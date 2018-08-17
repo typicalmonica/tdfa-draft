@@ -91,7 +91,7 @@ hr {
 }
 header {
   text-align: center;
-  background: #5758dd;
+  background: #ccccff;
   color: white;
 }
 header .container {
@@ -223,7 +223,7 @@ section.success {
 }
 
 #faq {
-	background: #ccccff;
+	background: #9797bf;
 	color: #FFFFFF;
 }
 
