@@ -54,19 +54,6 @@ img.resize {
   max-height:50%;
 } 
 
-.column {
-    float: left;
-    padding: 10px;
-}
-
-.left {
-  width: 25%;
-}
-
-.right {
-  width: 75%;
-}
-
 hr.star-light,
 hr.star-primary {
   padding: 0;
